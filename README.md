@@ -1,6 +1,7 @@
 Project Name: SQL Music Store Analysis
 
 Description:
+
 This is a basic SQL project where I have analyzed an online music store's database to uncover business trends and customer preferences. 
 Using SQL queries, I have answered key business questions related to sales, customer behavior, and music trends. 
 This project serves as a foundational exercise in SQL for real-world data analysis.
