@@ -7,7 +7,9 @@ Using SQL queries, I have answered key business questions related to sales, cust
 This project serves as a foundational exercise in SQL for real-world data analysis.
 
 Database & Tools:
+
 Database: PostgreSQL
+
 Tools: PgAdmin4
 
 ![MusicDatabaseSchema](https://github.com/user-attachments/assets/b7797a35-2c88-4c54-8fc5-4f772637b83d)
